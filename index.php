@@ -72,7 +72,7 @@
             <div class="container">
                 <div class="row clearfix">
                     <div class="col-md-8 offset-md-2 text-center">
-                        <h3>Phasellus gravida lacinia velit sit amet posuere
+                        <h3 class="mb30">Phasellus gravida lacinia velit sit amet posuere
                             Aliquam erat volutpat</h3>
                         <a href="contact.php" class="primary-btn">CONTACT US</a>
                     </div>
